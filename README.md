@@ -23,19 +23,6 @@ It also uses and builds on the following techniques
 * Observable state LiveData variables to trigger navigation
 
 
-## Working with the Course Code
-
-Here are the basic steps for working with and completing exercises in the repo.
-
-The basic steps are:
-
-1. Clone the repo.
-2. Check out the branch corresponding to the step you want to attempt.
-3. Find and complete the TODOs.
-4. Optionally commit your code changes.
-5. Compare your code with the solution.
-6. Repeat steps 2-5 until you've gone trough all the steps to complete the toy app.
-
 ## Report Issues
 Notice any issues with a repository? Please file a github issue in the repository.
 
